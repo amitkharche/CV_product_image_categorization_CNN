@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.h5
+*.pkl
+.env
+.DS_Store
+.ipynb_checkpoints/
